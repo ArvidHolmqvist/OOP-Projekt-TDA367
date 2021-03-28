@@ -1,5 +1,7 @@
 # OOP-Projekt-TDA367
 
+Link to original: https://github.com/elias-carlson/OOP-Projekt-TDA367
+
 A chess application created during the TDA367 project course at Chalmers University of Technology.
 
 Created by: Elias Carlson, Elias Hallberg, Arvid Holmqvist & Erik Wessman.
